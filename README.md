@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Romuald01
-- 👀 I’m interested in software and web development
-- 🌱 I’m currently learning php and sql for backend development
+- 👀 I’m interested in software engineering and web development
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me via email:romualdadjimagbe2018@gmail.com,09038362031.
 
